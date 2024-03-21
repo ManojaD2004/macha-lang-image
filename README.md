@@ -2,4 +2,6 @@
 
 Run this command, that's it ...easy!!, make sure docker is installed!!
 
-```./dockerstart.sh```
+```bash
+./dockerstart.sh
+```
