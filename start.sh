@@ -8,4 +8,4 @@ cd ./server && node .
 
 wait
 
-echo "Both of them have executed."
+echo "Both of them have executed and exited."
